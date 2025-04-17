@@ -53,3 +53,8 @@ Feel free to submit issues or pull requests to improve the project.
 
 ## Disclaimer
 This tool is for educational purposes only. Ensure compliance with local laws and respect intellectual property rights.
+
+## Contact
+Ray Pitcher - mass.automation.solutions@gmail.com
+
+Aspiring Automation Engineer | Open to feedback and collaboration!
